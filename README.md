@@ -1,6 +1,4 @@
-# Neural Transparency
-
-Research pipeline for **persona vector steering** — extracting behavioral directions from LLM internals (Llama-3.2-3B) and using them to detect and amplify/suppress traits like deception, sycophancy, and empathy.
+# Simulating neural Integration
 
 ## Overview
 
