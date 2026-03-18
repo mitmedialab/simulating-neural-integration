@@ -1,11 +1,11 @@
 # Simulating neural Integration
 
-## Overview
+Research pipeline for the paper "What If AI Lived Inside Your Mind? Simulating "Neural Integration" of Human and AI through Mechanistic Interpretability as Design Provocation".
 
 The project has two main components:
 
 1. **`persona-vectors/`** — Generate and evaluate persona vectors using contrastive activation differences
-2. **`simulating-neural-integration/`** — Deception steering experiment: simulate, evaluate, and visualize results
+2. **`simulating-neural-integration/`** — Steering experiment: simulate, evaluate, and visualize results
 
 ---
 
