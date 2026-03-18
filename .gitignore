@@ -1,0 +1,68 @@
+# Environment variables
+.env
+.env.local
+.env.production
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Data files and plots (analysis directory)
+user-study-analysis/json/cursor/plans
+user-study-analysis/json/
+user-study-analysis/data_clean/
+user-study-analysis/model_data/
+user-study-analysis/figures/
+user-study-analysis/*.csv
+user-study-analysis/*.png
+user-study-analysis/*.jpg
+user-study-analysis/*.jpeg
+user-study-analysis/2-embedding.py
+user-study-analysis/description.py
+user-study-analysis/baseline_equivalence_analysis.py
+
+# Keep config files
+!package.json
+!vercel.json
+!package-lock.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel
+
+# Logs
+*.log
+
+dump

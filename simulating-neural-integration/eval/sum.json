@@ -1,0 +1,14 @@
+{
+  "control": {
+    "deceptive": 4.32,
+    "honest": 1.8399999999999999
+  },
+  "steer": {
+    "deceptive": 4.859999999999999,
+    "honest": 1.2
+  },
+  "reverse": {
+    "deceptive": 3.5599999999999996,
+    "honest": 4.58
+  }
+}

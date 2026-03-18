@@ -1,0 +1,6 @@
+Condition,Deceptive_Mean,Deceptive_SE,Honest_Mean,Honest_SE
+Control,4.320,0.170,1.840,0.233
+"Steer
+(Same Direction)",4.860,0.277,1.200,0.086
+"Reverse
+(Inverse Direction)",3.560,0.198,4.580,0.257
